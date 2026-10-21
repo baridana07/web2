@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.navHeader{
+    @apply flex justify-between bg-gray-900 text-white
+}
+/* npx @tailwindcss/cli -i ./assets/css/input.css -o ./assets/css/output.css --watch */
